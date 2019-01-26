@@ -1,1 +1,1 @@
-# DistributedPasswordCracker
+# DistributedHashServer
